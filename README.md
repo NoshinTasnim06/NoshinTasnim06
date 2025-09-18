@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Noshin Tasnim 👋
 
-<!--
-**NoshinTasnim06/NoshinTasnim06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring data professional with a growing foundation in **Python, Java, and data analysis**.  
+Currently, I'm working on projects that combine **labor statistics analysis** with **machine learning prediction models** to sharpen my technical and problem-solving skills.  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- Programming: **Python (Pandas, NumPy, Matplotlib, Scikit-learn)**, Basic **Java**  
+- Data: Data Wrangling, Exploration, Visualization  
+- Interests: Data Analytics, Business Intelligence, Data Engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Building projects in **data analysis** and **machine learning**  
+- Exploring pathways into **data engineering** and related fields  
+
+## 🎯 Career Goals
+My aim is to apply my technical skills in **data or business analytics**, while developing toward a career in **data engineering**.  
+
+## 🌱 Outside of Tech
+When I’m not working on data projects, I enjoy **cooking, baking, reading, and handicrafts**.  
+
+
