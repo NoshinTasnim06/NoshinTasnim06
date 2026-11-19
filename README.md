@@ -10,9 +10,9 @@
 
 ## 👋 Who I Am
 
-I'm a Computer Science student at St. John's University in New York City, and I like building at the intersection of **software engineering, data systems, and applied AI/ML**. Rather than treating code, databases, and machine learning as separate silos, I'm drawn to programs that handle incoming traffic and requests, move data through clean ETL pipelines, store it reliably in relational databases, and turn it into models or interactive apps people can actually use.
+I'm a Computer Science student at St. John's University in New York City, and I like building at the intersection of **software engineering, data systems, and applied AI/ML**. Rather than treating code, databases, and machine learning as separate disciplines, I'm drawn to programs that handle incoming traffic and data, move it through pipelines, store it reliably, and use models or interactive apps to put it to work.
 
-Whether I'm structuring multithreaded application logic, cleaning and transforming raw inputs, designing normalized schemas from scratch, or wiring ML predictions into front-facing tools, I enjoy building both the software structure and the data flow underneath.
+Whether I'm writing software to handle data flow, working with databases, or building models on top of larger datasets, I enjoy connecting the code and the data underneath.
 
 ---
 
